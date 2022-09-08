@@ -7,7 +7,7 @@ Image Carousel
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 4</div>
-    <img src="https://i.pinimg.com/originals/5d/cb/83/5dcb8387dfb03577f62e319e8c96f506.gif" style="width:100%">
+    <img src="[https://i.pinimg.com/originals/5d/cb/83/5dcb8387dfb03577f62e319e8c96f506.gif](https://th.bing.com/th/id/R.f94774094cdb0632c80e94a27d4de239?rik=1Ya%2fkcvZRqgVFA&riu=http%3a%2f%2ff2.thejournal.ie%2fmedia%2f2013%2f11%2fwaterfall-3.gif&ehk=Rfc4vfEChuVsKl%2f%2f9WJS0u%2fIiY5IiJPcegShivIll%2bc%3d&risl=&pid=ImgRaw&r=0)" style="width:100%">
     <div class="text">Caption Text</div>
   </div>
 
@@ -18,13 +18,13 @@ Image Carousel
   </div>
   <div class="mySlides fade">
     <div class="numbertext">3 / 4</div>
-    <img src="https://i.pinimg.com/originals/e2/16/e9/e216e9373772d977024e8b59695126ba.gif" style="width:100%">
+    <img src="[https://i.pinimg.com/originals/e2/16/e9/e216e9373772d977024e8b59695126ba.gif](https://media2.giphy.com/media/132w3U5x2FuyXe/source.gif)" style="width:100%">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">4 / 4</div>
-    <img src="https://gifimage.net/wp-content/uploads/2017/09/beautiful-nature-gif-2.gif" style="width:100%">
+    <img src="https://u.teknik.io/yhGNI.gif" style="width:100%">
     <div class="text">Caption Three</div>
   </div>
 
